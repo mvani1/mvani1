@@ -17,7 +17,7 @@ Total Visitors 👉 ![Visitor Count](https://profile-counter.glitch.me/mvani1/co
 - 💞️ I’m looking for a fill-time job
 - 🔍 I’m looking to collaborate on Software Development Projects
 - 😄 Pronouns: He/His
-- 📫 Please feel free to reach me at mehulearn5@gmail.com
+- 📫 Please feel free to reach me at mehulvani97@gmail.com
 - ⚡ Fun fact about me: I can talk 24/7 about my favorite TV series and my favorite Movies.
 
 
