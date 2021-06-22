@@ -3,9 +3,13 @@
 Total Visitors 👉 ![Visitor Count](https://profile-counter.glitch.me/mvani1/count.svg)
 
 
-How to reach me: (Click the badge to view my profiles !)
+## GitHub is my Brain Gym and you're always welcome here
+<img src="https://github.com/mvani1/mvani1/blob/main/braingym.gif" alt="Databay showcase gif" title="Databay showcase gif" width="600"/>
 
 
+## How to reach me: (Click the badge to view my profiles !)
+
+## Facts about me:
 - Here are some ideas to help you get started:
 - 🔭 I’m currently working on Developing a Web Portfolio
 - 👀 I’m interested in learning new technology and observe the world with multiple perspective's
