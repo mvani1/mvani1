@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Mehul Vani
 
+Total Visitors 👉 ![Visitor Count](https://profile-counter.glitch.me/mvani1/count.svg)
+
 
 How to reach me: (Click the badge to view my profiles !)
 
