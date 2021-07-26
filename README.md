@@ -4,7 +4,7 @@ Total Visitors 👉 ![Visitor Count](https://profile-counter.glitch.me/mvani1/co
 
 
 ## GitHub is my Brain Gym and you're always welcome here
-<img src="https://github.com/mvani1/mvani1/blob/main/braingym.gif" alt="Databay showcase gif" title="Databay showcase gif" width="600"/>
+<img src="https://github.com/mvani1/mvani1/blob/main/August19-jupyterdebug.gif" alt="Databay showcase gif" title="Databay showcase gif" width="600"/>
 
 
 ## How to reach me: [GitHub](http://github.com) || [Twitter](https://twitter.com/MehulVani1) || [Linkedin](https://www.linkedin.com/in/mehulvani/)
